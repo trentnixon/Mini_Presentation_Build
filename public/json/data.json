@@ -1,0 +1,43 @@
+{
+    "data":"Json[LOAD] Completed",
+   
+   "Header":{
+       "Title":["The New Frontier – technologies that are transforming our everyday"],
+       "HeaderBgImage":"assets/images/Header.jpg"
+   },
+   
+   
+   "BodyCopy":[
+       {
+            "type":"p",
+            "copy":["Each and every one of us has the power to make a positive impact with every dollar we spend. As conscious consumers – making informed choices that align with our personal values – we can all help to bring about positive change for both our planet and its people. The good news is there is a growing number of socially conscious businesses who are working to make a difference, be that through sustainable practices, ethical work conditions, employing disadvantaged members of our society or by donating a proportion of their profits. By supporting these innovative businesses, you are not only buying a great product but also helping to bring about positive social and environmental change. This guide will empower you to make conscious purchases that will help to create a better world. Happy mindful shopping!"]
+       },
+       {
+           "type":"p",
+           "copy":["See for yourself how <a href=\"https://www.mini.com.au/connected/\" target=\"_blank\" >MINI Connected</a> can help make your life better, easier with next-level connectivity."] 
+       }
+    ],
+   
+   
+    "Client":{
+           "Copy":"Paid for by",
+           "Name":"Mini",
+           "Logo":"Client-Logo.png",
+           "Url":"https://www.theguardian.com/mini-the-future-starts-now"
+    },
+   
+    "partnerZone":{
+           "HeaderCopy":"The internet of everything and everyday tech",
+           "FooterCopy":["Read more in our content series","The internet of everything and everyday tech"],
+           "Url":"https://www.theguardian.com/mini-the-future-starts-now"
+       },
+   
+
+    "ProjectSocial":{
+        "ShareUrl":null, 
+        "ShareHeader":"",
+        "ShareCopy":"",
+        "ShareImage":"",
+        "ShareThumb":""
+    }
+   }

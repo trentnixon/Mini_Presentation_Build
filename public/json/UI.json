@@ -1,0 +1,12 @@
+{
+    "data":"Json [UI] Completed",
+    "ImagePath":"https://gdn-cdn.s3.amazonaws.com/embed/2018/07/mini-connected-redesign/assets/images/",
+    "Server":"/",
+    "display":{
+       "xs":1,
+       "sm":2,
+       "md":3,
+       "lg":4,
+       "xl":4
+    }
+   }
